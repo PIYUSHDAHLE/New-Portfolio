@@ -5021,7 +5021,7 @@ Created using IcoMoon - icomoon.io
 
 .gallery .cc-porfolio-image figure .h4,
 .gallery .cc-porfolio-image figure p {
-  margin: 0; }
+  margin: 0;}
 
 .gallery figure.cc-effect figcaption::before,
 .gallery figure.cc-effect figcaption::after {
@@ -5239,7 +5239,11 @@ Created using IcoMoon - icomoon.io
   .cc-reference .carousel-indicators {
     bottom: 0px; }
   .cc-reference ol {
-    margin-bottom: 0; } }
+    margin-bottom: 0; } 
+  figcaption h4, figcaption p{
+    font-size: 10px;
+  }
+  }
 
 /* Contact Information Style */
 .cc-contact-information {
